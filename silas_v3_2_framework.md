@@ -1,4 +1,4 @@
-﻿# SILAS Multi-Agent Research Framework v3.2
+# SILAS Multi-Agent Research Framework v3.2
 **Systematic Insight through Linkage Assessment Suite**  
 *Five-Agent Architecture with Edge-Set Attention for Bias-Resistant Graph Analysis*
 
@@ -769,7 +769,7 @@ Based on validated research demonstrating superior performance across 70+ divers
 Phase 1 establishes the foundation for eventual standalone ESA calibration framework development (Phase 2), while providing immediate attention-enhanced reliability monitoring capabilities. The integrated design includes APIs and modular components that facilitate future extraction into independent validation systems for enhanced credibility and regulatory compliance.
 
 ### ESA Research Integration
-SILAS v3.2 incorporates validated techniques from "An end-to-end attention-based approach for learning on graphs" (Nature Communications, 2025), adapting proven methodologies for:
+SILAS v3.2 incorporates techniques from Buterez, D., Janet, J.P., Oglic, D. et al. An end-to-end attention-based approach for learning on graphs. Nat Commun 16, 5244 (2025). https://doi.org/10.1038/s41467-025-60252-z; methodologies adaptided for:
 - Edge-set attention mechanisms for connection evaluation
 - Masked attention patterns for spurious relationship filtering  
 - Attention-based pooling for multi-perspective synthesis
