@@ -195,7 +195,7 @@ Based on validated Edge-Set Attention techniques from peer-reviewed graph learni
 - [Complete Framework Documentation](docs/framework-v3.2.md)
 - [Usage Guidelines](docs/usage-guidelines.md)
 - [Contributing Guide](community/CONTRIBUTING.md)
-- [License Terms](LICENSE)
+- License Terms https://creativecommons.org/licenses/by-nc-sa/4.0/ 
 
 ---
 
