@@ -192,7 +192,7 @@ Based on validated Edge-Set Attention techniques from peer-reviewed graph learni
 ---
 
 **⚡ Quick Links:**
-- [Complete Framework Documentation](docs/framework-v3.2.md)
+- [Complete Framework Documentation](docs/SILAS_framework-v3.2.md)
 - [Usage Guidelines](docs/usage-guidelines.md)
 - [Contributing Guide](community/CONTRIBUTING.md)
 - License Terms https://creativecommons.org/licenses/by-nc-sa/4.0/ 
