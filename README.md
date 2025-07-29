@@ -145,7 +145,7 @@ SILAS includes built-in calibration monitoring:
 
 ## 🤝 Contributing
 
-We welcome contributions from domain experts! See [CONTRIBUTING.md](community/CONTRIBUTING.md) for guidelines.
+We welcome contributions from domain experts! See [CONTRIBUTING.md](main/CONTRIBUTING.md)) for guidelines.
 
 **Ways to contribute:**
 - Share case studies and applications
